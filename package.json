@@ -1,0 +1,29 @@
+{
+  "name": "open-container",
+  "version": "1.0.0",
+  "description": "An advanced, professional, and highly developed package better than js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/state-NER/open-containers-.git"
+  },
+  "keywords": [
+    "open",
+    "container",
+    "advanced",
+    "professional",
+    "developed"
+  ],
+  "author": "state-NER",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/state-NER/open-containers-/issues"
+  },
+  "homepage": "https://github.com/state-NER/open-containers-#readme",
+  "devDependencies": {
+    "jest": "^27.0.0"
+  }
+}
